@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println("测试git");
         System.out.println("测试git");
         System.out.println("测试git");
+        System.out.println("不测试");
     }
 }
